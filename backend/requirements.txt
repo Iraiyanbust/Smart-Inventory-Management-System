@@ -1,1 +1,8 @@
-
+Django==5.1
+djangorestframework==3.17.1
+django-cors-headers==4.9.0
+Pillow==12.2.0
+easyocr==1.7.2
+rapidfuzz==3.13.0
+pandas==2.2.3
+prophet==1.1.6
